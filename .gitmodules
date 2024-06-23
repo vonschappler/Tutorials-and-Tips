@@ -1,0 +1,6 @@
+[submodule "Project-Strucure-Tutorial"]
+	path = Project-Strucure-Tutorial
+	url = https://github.com/vonschappler/Project.git
+[submodule "BaseFrontendTemplates"]
+	path = BaseFrontendTemplates
+	url = https://github.com/vonschappler/base-project-templates.git
