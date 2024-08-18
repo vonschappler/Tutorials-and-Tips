@@ -12,7 +12,7 @@ This is a set of base templates for those who wish to start their webprojects an
 
 ---
 
-### Project Structure Tutoral:
+## Project Structure Tutorial:
 
 This is a small project with some useful information on how I setup my github repositories for development of big projects that require multiple sub-projects.
 
